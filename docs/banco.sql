@@ -1,3 +1,5 @@
+//CREATE DATABASE controledeestoque;
+
 CREATE TABLE itens (
     id         SERIAL PRIMARY KEY,
     nome       VARCHAR(100) NOT NULL,
